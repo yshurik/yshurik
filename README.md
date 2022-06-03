@@ -10,6 +10,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Go, C++, Python, etc etc
 
+#### :sparkles: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
 - 🔭 I’m currently working on this page. 
 
 
