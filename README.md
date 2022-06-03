@@ -87,7 +87,6 @@ Skills: Go, C++, Python, etc etc
 - 🔭 I’m currently working on this page. 
 
 
-![build](https://github.com/yshurik/yshurik/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yshurik/yshurik)
 ![pv](https://pageview.vercel.app/?github_user=yshurik)
 
