@@ -51,18 +51,18 @@ Skills: Go, C++, Python, etc etc
       <a href="https://github.com/Deutsch4534">Москва</a>
     </td>
     <td align="center">
-      <a href="https://github.com/marcioatdias">
-        <img src="https://avatars2.githubusercontent.com/u/8908607" width="100px;" alt="marcioatdias"/>
-      </a>
-      <br />
-      <a href="https://github.com/marcioatdias">mdias</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jorenfrielink">
         <img src="https://avatars2.githubusercontent.com/u/4737455" width="100px;" alt="jorenfrielink"/>
       </a>
       <br />
       <a href="https://github.com/jorenfrielink">jorenfrielink</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marcioatdias">
+        <img src="https://avatars2.githubusercontent.com/u/8908607" width="100px;" alt="marcioatdias"/>
+      </a>
+      <br />
+      <a href="https://github.com/marcioatdias">mdias</a>
     </td>
   </tr>
   <tr>
