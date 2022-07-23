@@ -23,6 +23,13 @@ Skills: Go, C++, Python, etc etc
       <a href="https://github.com/henesy">Sean Hinchee</a>
     </td>
     <td align="center">
+      <a href="https://github.com/egan918">
+        <img src="https://avatars2.githubusercontent.com/u/103172597" width="100px;" alt="egan918"/>
+      </a>
+      <br />
+      <a href="https://github.com/egan918">Louis Egan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/foxoman">
         <img src="https://avatars2.githubusercontent.com/u/5356677" width="100px;" alt="foxoman"/>
       </a>
@@ -57,6 +64,8 @@ Skills: Go, C++, Python, etc etc
       <br />
       <a href="https://github.com/jorenfrielink">jorenfrielink</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/marcioatdias">
         <img src="https://avatars2.githubusercontent.com/u/8908607" width="100px;" alt="marcioatdias"/>
@@ -64,8 +73,6 @@ Skills: Go, C++, Python, etc etc
       <br />
       <a href="https://github.com/marcioatdias">mdias</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Dan178A">
         <img src="https://avatars2.githubusercontent.com/u/90704454" width="100px;" alt="Dan178A"/>
